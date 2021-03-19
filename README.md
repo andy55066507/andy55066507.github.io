@@ -1,5 +1,10 @@
 # 40717049 許哲維  
-作業
+作業  
+**粗體**
+*斜體*  
+~~刪除~~  
+水平---
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/andy55066507/andy55066507.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
